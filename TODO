@@ -1,0 +1,7 @@
+make it simple as possible
+don't try to make it a framework
+explain what you did
+
+implement collision detection based on AABB
+
+implement a set of commons (like apply...maybe it can be used when we wanna apply draggable methods to shapes)
